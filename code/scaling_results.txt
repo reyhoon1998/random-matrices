@@ -1,0 +1,7 @@
+Scaling with number of workers (n=1000, ndat=2000)
+  nprocs  workers    wtime (s)    speedup
+       4        3       115.54       1.00
+       6        5        86.21       1.34
+       8        7        85.45       1.35
+      12       11       100.88       1.15
+      16       15       142.68       0.81

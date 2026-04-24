@@ -1,0 +1,8 @@
+Scaling results for n=500, ndat=2000
+  nprocs  workers    wtime (s)    speedup
+       2        1        77.92       1.00
+       4        3        26.98       2.89
+       6        5        17.67       4.41
+       8        7        13.93       5.59
+      12       11        13.26       5.88
+      16       15        12.15       6.42
